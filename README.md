@@ -12,4 +12,4 @@ This repository contains practical exercises based on **Riak KV** and **Neo4j**.
 ### Technologies Used
 Riak KV, Neo4j, Python, Cypher, and Linux.
 
-**Purpose:** BCA academic practical work and learning.
+**Purpose:** BCA academic practical work.
